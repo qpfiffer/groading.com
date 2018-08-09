@@ -3,7 +3,7 @@ html {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 18px;
 }
-body {
+body, footer {
 	margin: 0 auto;
 }
 header {
@@ -19,7 +19,7 @@ header ul {
 header ul li {
 	margin-bottom: 1em;
 }
-section {
+section, footer {
 	margin-left: 260px;
 	margin-bottom: 6em;
 	width: 700px;
